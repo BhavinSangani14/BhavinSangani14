@@ -4,7 +4,7 @@
 > ### **Programming isn't about what you know; it's about what you can figure out.** - Chris Pine
 
 #### 👋 About Me
-- 🌩️ AWS Certified Developer Associate (Verify Credential)
+- 🌩️ AWS Certified Developer Associate [**(View certificate)**](https://cp.certmetrics.com/amazon/en/public/verify/credential/K4W1B5KCXN1Q10CB)
 - 🛠️ I'm a Cloud Engineer with a strong background in designing and deploying scalable cloud solutions.
 - 💡 Skilled in leveraging cloud services, automation, and infrastructure as code to build efficient and secure environments.
 - 🎯 My goal is to solve real-world challenges by integrating AI/ML with cloud platforms, making data-driven decisions easier and faster.
