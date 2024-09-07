@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/BhavinSangani14/BhavinSangani14/blob/c8461b89eb585863c70254188b4c91f787ca03d4/github%20banner.png)
 
 <!--
 **BhavinSangani14/BhavinSangani14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
