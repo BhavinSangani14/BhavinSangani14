@@ -10,17 +10,11 @@
 - 🎯 My goal is to solve real-world challenges by integrating AI/ML with cloud platforms, making data-driven decisions easier and faster.
 
 #### 💻 Core Skills:
-- Cloud Platforms: AWS, GCP
-- Programming & Scripting: Python, JavaScript, TypeScript, Node.js, Bash
-- Frameworks & Libraries: React, Django, Express, Next.js
-- Infrastructure as Code: AWS CloudFormation, Terraform
-- DevOps & Automation: CI/CD, GitLab, Jenkins, Docker, Kubernetes
-- Monitoring & Logging: AWS CloudWatch, Prometheus, ELK Stack
-- Data & AI/ML: DynamoDB, PostgreSQL, MySQL, AI/ML on AWS
-- Tools: Git, Linux, Selenium, Appium, Postman, JIRA, Confluence
-
-#### 🚀 Cloud Engineering in Action:
-- 🔧 Built and automated cloud infrastructure for high-availability applications using AWS services like EC2, Lambda, RDS, and S3.
-- ⚡ Designed serverless architectures and integrated APIs to enable scalable and cost-efficient applications.
-- 🤖 Developed automated solutions with Python and Selenium for workflow optimization, reducing manual effort by 30%.
-- 📈 Integrated AI/ML models into cloud environments to enhance business decision-making and analytics.
+- Cloud Platforms: AWS
+- Programming & Scripting: Python, JavaScript, Bash
+- Frameworks & Libraries: Pyspark, Tensorflow, React, Django, Streamlit, Selenium
+- Infrastructure as Code: AWS CloudFormation
+- DevOps & Automation: CI/CD, Git Actions, Docker, AWS Codepipeline
+- Data: Redshift, RDS, DynamoDB, PostgreSQL
+- AI/ML: Regression, Classification, Computer Vision, NLP, Generative AI, Transformers, Recomendation System
+- Tools: Git, Linux, Postman, JIRA, Confluence
