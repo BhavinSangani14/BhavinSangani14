@@ -1,4 +1,4 @@
-![logo](https://github.com/BhavinSangani14/BhavinSangani14/blob/e563b88c4df5b4c2c4a41b9fa07e7ef135fee4f1/Github%20Banner.png)
+![logo](https://github.com/BhavinSangani14/BhavinSangani14/blob/d1c7a259bfd4994c85d3dd41cddbb78ce59f6a68/Github%20Banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinsangani14&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinsangani14" /> </p>
 
 > ### **Programming isn't about what you know; it's about what you can figure out.** - Chris Pine
